@@ -2,7 +2,6 @@
 
 Welcome to ELmahdi Dictionary, a simple web application that allows you to search for word definitions and hear their pronunciation. This project aims to provide a user-friendly interface for exploring the meanings of words.
 
-![ELmahdi Dictionary](images/dictionary.png)
 
 ## Features
 - Search for word definitions
