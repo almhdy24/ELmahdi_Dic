@@ -11,8 +11,6 @@ Welcome to ELmahdi Dictionary, a simple web application that allows you to searc
 ## Getting Started
 To use ELmahdi Dictionary, simply enter a word in the search bar and click the search button. The application will fetch the definition of the entered word from the dictionary API and display it on the screen.
 
-![Search](images/search.png)
-
 ## Technologies Used
 - JavaScript
 - HTML
